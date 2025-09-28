@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+body{
+    background: white;
+    font-family: "Inter", sans-serif;
+}
+
+/* .footer{
+  display: block;
+} */
